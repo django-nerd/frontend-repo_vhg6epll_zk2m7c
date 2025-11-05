@@ -7,8 +7,8 @@ import Pricing from './components/Pricing';
 function App() {
   return (
     <div className="min-h-screen bg-white text-gray-900">
-      {/* Simple top nav */}
-      <header className="sticky top-0 z-20 bg-white/80 backdrop-blur border-b border-gray-100">
+      {/* Top nav */}
+      <header className="sticky top-0 z-20 bg-white/70 backdrop-blur border-b border-gray-100">
         <div className="mx-auto max-w-7xl px-6 h-14 flex items-center justify-between">
           <a href="#home" className="font-extrabold tracking-tight text-xl">DataChat DAX</a>
           <nav className="hidden md:flex items-center gap-6 text-sm text-gray-600">
